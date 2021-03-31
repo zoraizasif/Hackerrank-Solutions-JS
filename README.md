@@ -1,7 +1,7 @@
 # Hackerrank-Solutions-JS
 Some solutions to HackerRank problems
 
-## Problems
+### Problems
 1. Sales By Match
 [[Problem Statement]](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup) [[Solution]](./Solutions/sales-by-match.js)
 2. 2D Array - DS

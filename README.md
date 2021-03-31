@@ -1,6 +1,8 @@
 # Hackerrank-Solutions-JS
 Some solutions to HackerRank problems
 
+![](https://github.com/zoraizasif/Hackerrank-Solutions-JS/blob/main/logo.png "HackerRank Logo")
+
 ### Problems
 1. Sales By Match
 [[Problem Statement]](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup) [[Solution]](./Solutions/sales-by-match.js)

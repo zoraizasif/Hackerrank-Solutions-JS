@@ -1,5 +1,5 @@
 # Hackerrank-Solutions-JS
-Some easy and medium difficulty level solutions to HackerRank problems
+Some solutions to HackerRank problems
 
 ## Problems
 1. Sales By Match
